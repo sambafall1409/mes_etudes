@@ -49,6 +49,8 @@ Ce dépôt regroupe une partie des travaux menés lors de mon alternance à **l�
 🔹 Alternant Data Analyst / Data Engineer  
 🔹 Certifié **Azure** & **Databricks**  
 📧 fall.e2205085@etud.univ-ubs.fr  
+📧 sfall1997000@gmail.com
+Tel:0744198942
 🎓 Master 2 Data Science – Université de Bretagne Sud
 
 ---
