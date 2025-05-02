@@ -1,6 +1,6 @@
 # 🧠 Data Analyste / Engineer
 
-Ce dépôt regroupe une partie des travaux menés lors de mon alternance à **l’Agence d’Urbanisme de Tours (ATU)**, en tant que **Data Analyst / Data Engineer**.
+Ce dépôt regroupe une partie des travaux  à **l’Agence d’Urbanisme de Tours (ATU)**, en tant que **Data Analyst / Data Engineer**.
 
 ---
 
